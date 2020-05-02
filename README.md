@@ -13,5 +13,8 @@ PyElliptic- Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC,
 
 cryptopy-Pure python implmentation of cryptographic algorithms and applications.(https://sourceforge.net/projects/cryptopy/)
 
+Scrapy-Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.(https://github.com/scrapy/scrapy)
+
+python-mode- An all in one plugin for turning Vim into a Python IDE.(https://github.com/python-mode/python-mode)
 
 
