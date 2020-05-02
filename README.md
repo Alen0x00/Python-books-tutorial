@@ -4,3 +4,5 @@ Python books/tutorial ru-eng
 
 
 pyew-(https://github.com/joxeankoret/pyew)
+
+pefile- is a Python module to read and work with PE files (https://github.com/erocarrera/pefile)
