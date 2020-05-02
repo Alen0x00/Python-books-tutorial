@@ -17,4 +17,6 @@ Scrapy-Scrapy is a fast high-level web crawling and web scraping framework, used
 
 python-mode- An all in one plugin for turning Vim into a Python IDE.(https://github.com/python-mode/python-mode)
 
+virtualenv-A tool for creating isolated virtual python environments.(https://github.com/pypa/virtualenv)
+
 
