@@ -25,4 +25,6 @@ Buildout - is a tool for automating software assembly.(http://www.buildout.org/e
 
 coala - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.(https://github.com/coala/coala/)
 
+python-modernize - Modernizes Python code for eventual Python 3 migration. Build on top of 2to3(https://github.com/mitsuhiko/python-modernize)
+
 
