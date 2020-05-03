@@ -27,4 +27,6 @@ coala - coala provides a unified command-line interface for linting and fixing a
 
 python-modernize - Modernizes Python code for eventual Python 3 migration. Build on top of 2to3(https://github.com/mitsuhiko/python-modernize)
 
+pynacl - Python binding to the Networking and Cryptography (NaCl) library (https://github.com/pyca/pynacl)
+
 
