@@ -21,4 +21,8 @@ virtualenv-A tool for creating isolated virtual python environments.(https://git
 
 pyjwt - JSON Web Token implementation in Python (https://github.com/jpadilla/pyjwt)
 
+Buildout - is a tool for automating software assembly.(http://www.buildout.org/en/latest/)
+
+
+
 
