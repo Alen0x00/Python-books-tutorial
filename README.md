@@ -19,4 +19,6 @@ python-mode- An all in one plugin for turning Vim into a Python IDE.(https://git
 
 virtualenv-A tool for creating isolated virtual python environments.(https://github.com/pypa/virtualenv)
 
+pyjwt - JSON Web Token implementation in Python (https://github.com/jpadilla/pyjwt)
+
 
