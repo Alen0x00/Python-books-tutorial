@@ -33,5 +33,7 @@ python-prompt-toolkit - Library for building powerful interactive command line a
 
 kivy - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS (https://github.com/kivy/kivy)
 
+poetry - Python dependency management and packaging made easy.(https://github.com/python-poetry/poetry)
+
 
 
