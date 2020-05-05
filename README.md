@@ -31,5 +31,7 @@ pynacl - Python binding to the Networking and Cryptography (NaCl) library (https
 
 python-prompt-toolkit - Library for building powerful interactive command line applications in Python(https://github.com/prompt-toolkit/python-prompt-toolkit)
 
+kivy - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS (https://github.com/kivy/kivy)
+
 
 
