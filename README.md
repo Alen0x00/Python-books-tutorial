@@ -29,4 +29,7 @@ python-modernize - Modernizes Python code for eventual Python 3 migration. Build
 
 pynacl - Python binding to the Networking and Cryptography (NaCl) library (https://github.com/pyca/pynacl)
 
+python-prompt-toolkit - Library for building powerful interactive command line applications in Python(https://github.com/prompt-toolkit/python-prompt-toolkit)
+
+
 
