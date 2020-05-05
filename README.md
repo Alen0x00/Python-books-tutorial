@@ -35,5 +35,7 @@ kivy - Open source UI framework written in Python, running on Windows, Linux, ma
 
 poetry - Python dependency management and packaging made easy.(https://github.com/python-poetry/poetry)
 
+tweepy - Twitter for Python!(https://github.com/tweepy/tweepy)
+
 
 
