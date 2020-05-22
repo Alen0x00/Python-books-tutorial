@@ -37,5 +37,7 @@ poetry - Python dependency management and packaging made easy.(https://github.co
 
 tweepy - Twitter for Python!(https://github.com/tweepy/tweepy)
 
+All Algorithms implemented in Python - https://github.com/TheAlgorithms/Python
+
 
 
