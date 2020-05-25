@@ -39,5 +39,7 @@ tweepy - Twitter for Python!(https://github.com/tweepy/tweepy)
 
 All Algorithms implemented in Python - https://github.com/TheAlgorithms/Python
 
+The official Python (3) library for the Steem Blockchain - https://github.com/steemit/steem-python
+
 
 
